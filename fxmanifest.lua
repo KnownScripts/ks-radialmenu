@@ -1,5 +1,13 @@
 fx_version 'adamant'
 games { 'rdr3', 'gta5' }
+
+author 'KnownScripts'
+description 'An radial options for qbus'
+
+
+
+
+
 lua54 'yes'
 client_scripts {
 	"@PolyZone/client.lua",
