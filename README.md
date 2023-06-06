@@ -1,3 +1,3 @@
 # ks-radialmenu
 
-An radialmenu option for qbus 
+An radialmenu option for QBCore and ESX 
